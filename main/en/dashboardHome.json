@@ -20,34 +20,32 @@
   },
 
   "tips": {
-  "label": "Tip of the day",
-  "items": [
-    {
-      "title": "Filter logs by severity",
-      "content": "Use {app=\"my-app\", level=\"error\"} in Loki to see application errors."
-    },
-    {
-      "title": "Monitor your memory in real-time",
-      "content": "Use container_memory_usage_bytes in Mimir to create RAM usage alerts."
-    },
-    {
-      "title": "Find bottlenecks in APIs",
-      "content": "In Tempo, filter by http.method=\"POST\" and duration > 1s to find slowness."
-    },
-    {
-      "title": "Traces with specific status code",
-      "content": "Use status_code=\"500\" in Tempo to identify where errors are occurring."
-    },
-    {
-      "title": "Analyze log ingestion",
-      "content": "Monitor the metric loki_distributor_bytes_received_total per tenant."
-    },
-    {
-      "title": "Use ready-to-go dashboards",
-      "content": "In Grafana, import community dashboards to accelerate your setup."
-    }
-  ]
-}
-
-
+    "label": "Tip of the day",
+    "items": [
+      {
+        "title": "Filter logs by severity",
+        "content": "Use {app=\"my-app\", level=\"error\"} in Loki to see application errors."
+      },
+      {
+        "title": "Monitor your memory in real-time",
+        "content": "Use container_memory_usage_bytes in Mimir to create RAM usage alerts."
+      },
+      {
+        "title": "Find bottlenecks in APIs",
+        "content": "In Tempo, filter by http.method=\"POST\" and duration > 1s to find slowness."
+      },
+      {
+        "title": "Traces with specific status code",
+        "content": "Use status_code=\"500\" in Tempo to identify where errors are occurring."
+      },
+      {
+        "title": "Analyze log ingestion",
+        "content": "Monitor the metric loki_distributor_bytes_received_total per tenant."
+      },
+      {
+        "title": "Use ready-to-go dashboards",
+        "content": "In Grafana, import community dashboards to accelerate your setup."
+      }
+    ]
+  }
 }
