@@ -52,5 +52,33 @@
       }
     ],
     "cta": "Talk to a Specialist"
+  },
+  "pdf": {
+    "title": "Observability Proposal",
+    "subtitle": "Estimated usage summary:",
+    "resource": "Resource",
+    "usage": "Usage",
+    "price": "Price",
+    "logs": "Logs",
+    "traces": "Traces",
+    "profiles": "Profiles",
+    "metrics": "Metrics",
+    "series": "series",
+    "retention": "Retention",
+    "days": "days",
+    "total": "Total",
+    "notesTitle": "Notes:",
+    "note1": "The infrastructure is managed, secure, and scalable.",
+    "note2": "You can easily integrate Prometheus, Loki, Tempo, and Grafana.",
+    "note3": "For amounts over R$ 5,000/month, we offer custom domain and SSO.",
+    "contactTitle": "Contact us to activate your account:",
+    "contactPhone": "WhatsApp: +55 11 99126-6175",
+    "contactSite": "Website: elvenobservability.com",
+    "contactEmail": "Email: elvenobservability@elven.works"
+  },
+  "retention": {
+    "label": "Retention:",
+    "unit": "days",
+    "tooltip": "Retention defines how long data remains available. The longer the retention, the higher the cost."
   }
 }
