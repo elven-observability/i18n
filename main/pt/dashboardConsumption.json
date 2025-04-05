@@ -31,15 +31,15 @@
     "traces": "Volume de Traces 🧵"
   },
   "time": {
-    "from": "From",
-    "to": "To",
-    "apply": "Apply",
+    "from": "De",
+    "to": "Até",
+    "apply": "Aplicar",
     "quick": {
-      "label": "Quick ranges",
-      "24h": "Last 24 hours",
-      "7d": "Last 7 days",
-      "15d": "Last 15 days",
-      "30d": "Last 30 days"
+      "label": "Intervalos rápidos",
+      "24h": "Últimas 24 horas",
+      "7d": "Últimos 7 dias",
+      "15d": "Últimos 15 dias",
+      "30d": "Últimos 30 dias"
     }
   }
 }

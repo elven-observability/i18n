@@ -30,16 +30,17 @@
     "logs": "Log Volume 🗃️",
     "traces": "Traces Volume 🧵"
   },
+
   "time": {
-    "from": "De",
-    "to": "Até",
-    "apply": "Aplicar",
+    "from": "From",
+    "to": "To",
+    "apply": "Apply",
     "quick": {
-      "label": "Intervalos rápidos",
-      "24h": "Últimas 24 horas",
-      "7d": "Últimos 7 dias",
-      "15d": "Últimos 15 dias",
-      "30d": "Últimos 30 dias"
+      "label": "Quick ranges",
+      "24h": "Last 24 hours",
+      "7d": "Last 7 days",
+      "15d": "Last 15 days",
+      "30d": "Last 30 days"
     }
   }
 }
