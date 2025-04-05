@@ -1,0 +1,28 @@
+{
+  "consumption": {
+    "selectPeriod": "Selecione o Período:",
+    "error": "Erro ao carregar dados.",
+    "noData": "Nenhum dado encontrado para o período selecionado."
+  },
+  "timeSeries": {
+    "overTime": "Evolução ao Longo do Tempo",
+    "series": "Séries ativas",
+    "logs": "Logs",
+    "traces": "Traces",
+    "linear": "Linear",
+    "logarithmic": "Logarítmica",
+    "linearLabel": "Valor (convertido)",
+    "logLabel": "Escala Log (valores > 0)"
+  },
+  "chart": {
+    "title": "Visão Geral do Uso",
+    "linear": "Linear",
+    "log": "Logarítmica",
+    "tenantLabel": "Tenant",
+    "series": "Active Series",
+    "logs": "Logs",
+    "traces": "Traces",
+    "axisLinear": "Valor (convertido)",
+    "axisLog": "Escala Log (valores > 0)"
+  }
+}
