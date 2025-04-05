@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "title": "Observabilidade moderna e sem limites com a stack LGTM++",
+    "subtitle": "Métricas, logs e traces em tempo real, com suporte completo a qualquer ambiente — cloud, containers ou bare metal.",
+    "body": "Usamos <strong1>OpenTelemetry</strong1> com instrumentação automática, <strong2>agents desenvolvidos por nós</strong2>, exporters Prometheus e suporte total à observabilidade distribuída.",
+    "cta": "Começar grátis",
+    "demo": "Ver demonstração",
+    "bottomTitle": "Pronto para observar tudo?",
+    "bottomCta": "Começar agora"
+  }
+}
