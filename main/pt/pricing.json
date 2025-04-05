@@ -1,0 +1,56 @@
+{
+  "title": "Conheça nossos planos",
+  "highlight": "Reduza seu custo com observabilidade em até 60%",
+  "description": "Para empresas de todos os tamanhos e necessidades",
+  "tabs": {
+    "saas": "Multi-Tenant (SaaS)",
+    "dedicated": "Stack Dedicada (Self-Hosted)"
+  },
+  "marketplace": {
+    "label": "Ou contrate direto pelo marketplace:",
+    "cta": "AWS Marketplace"
+  },
+  "calculator": {
+    "title": "Calculadora de Preço SaaS",
+    "description": "Estime seu custo mensal com base no uso. Valores variam com o tempo de retenção.",
+    "fields": {
+      "logs": "Logs",
+      "traces": "Traces",
+      "profiles": "Profiles",
+      "metrics": "Métricas Ativas",
+      "seriesSuffix": "K séries"
+    },
+    "summary": {
+      "title": "Resumo:",
+      "total": "Total"
+    },
+    "cta": {
+      "hire": "Contratar Agora",
+      "pdf": "Gerar PDF",
+      "generating": "Gerando..."
+    }
+  },
+  "selfHosted": {
+    "title": "Implantação dedicada para sua empresa",
+    "description": "Tenha uma stack exclusiva, com dados isolados e hospedagem onde preferir: na sua infraestrutura, em cloud pública ou gerenciada pela Elven. Ideal para segurança, compliance (LGPD, SOC2) e integração profunda com seu ambiente.",
+    "features": [
+      {
+        "title": "Hospedagem flexível",
+        "desc": "Você escolhe onde rodar: AWS, Azure, GCP, on-prem ou na Elven."
+      },
+      {
+        "title": "Totalmente personalizável",
+        "desc": "Configure regras de retenção, sharding, alta disponibilidade e backups sob medida."
+      },
+      {
+        "title": "Compliance e segurança",
+        "desc": "Pensado para empresas que exigem LGPD, SOC2, ISO ou normas internas de segurança."
+      },
+      {
+        "title": "Suporte com SLA sob contrato",
+        "desc": "Tenha acesso a suporte técnico especializado e SLA com cobertura formal."
+      }
+    ],
+    "cta": "Fale com um Especialista"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Check out our plans",
+  "highlight": "Reduce your observability cost by up to 60%",
+  "description": "For companies of all sizes and needs",
+  "tabs": {
+    "saas": "Multi-Tenant (SaaS)",
+    "dedicated": "Dedicated Stack (Self-Hosted)"
+  },
+  "marketplace": {
+    "label": "Or buy directly from the marketplace:",
+    "cta": "AWS Marketplace"
+  },
+  "calculator": {
+    "title": "SaaS Pricing Calculator",
+    "description": "Estimate your monthly cost based on usage. Values vary with retention period.",
+    "fields": {
+      "logs": "Logs",
+      "traces": "Traces",
+      "profiles": "Profiles",
+      "metrics": "Active Metrics",
+      "seriesSuffix": "K series"
+    },
+    "summary": {
+      "title": "Summary:",
+      "total": "Total"
+    },
+    "cta": {
+      "hire": "Hire Now",
+      "pdf": "Generate PDF",
+      "generating": "Generating..."
+    }
+  },
+  "selfHosted": {
+    "title": "Dedicated deployment for your company",
+    "description": "Get a private stack with isolated data and hosting wherever you prefer: your infrastructure, public cloud or managed by Elven. Ideal for security, compliance (GDPR, SOC2) and deep integration with your environment.",
+    "features": [
+      {
+        "title": "Flexible hosting",
+        "desc": "You choose where to run: AWS, Azure, GCP, on-prem, or on Elven."
+      },
+      {
+        "title": "Fully customizable",
+        "desc": "Configure retention policies, sharding, high availability, and tailored backups."
+      },
+      {
+        "title": "Compliance & security",
+        "desc": "Designed for companies requiring GDPR, SOC2, ISO or internal security standards."
+      },
+      {
+        "title": "SLA-backed support",
+        "desc": "Access expert support with a formal SLA agreement."
+      }
+    ],
+    "cta": "Talk to a Specialist"
+  }
+}
