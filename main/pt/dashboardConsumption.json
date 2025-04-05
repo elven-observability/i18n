@@ -24,5 +24,22 @@
     "traces": "Traces",
     "axisLinear": "Valor (convertido)",
     "axisLog": "Escala Log (valores > 0)"
+  },
+  "metrics": {
+    "series": "Séries Ativas 📊",
+    "logs": "Volume de Logs 🗃️",
+    "traces": "Volume de Traces 🧵"
+  },
+  "time": {
+    "from": "From",
+    "to": "To",
+    "apply": "Apply",
+    "quick": {
+      "label": "Quick ranges",
+      "24h": "Last 24 hours",
+      "7d": "Last 7 days",
+      "15d": "Last 15 days",
+      "30d": "Last 30 days"
+    }
   }
 }
