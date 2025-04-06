@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Modern and Limitless Observability with the LGTM++ Stack",
+    "title": "Modern Observability with the LGTM++ Stack",
     "subtitle": "Metrics, logs, and traces in real time, with full support for any environment — cloud, containers, or bare metal.",
     "body": "We use <strong1>OpenTelemetry</strong1> with automatic instrumentation, <strong2>custom-built agents</strong2>, Prometheus exporters, and full support for distributed observability.",
     "cta": "Start for Free",
