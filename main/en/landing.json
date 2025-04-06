@@ -65,12 +65,12 @@
       "desc": "Each client has a logically isolated environment, quotas, and independent access. Ideal for agility, scalability, and low cost."
     },
     "dedicated": {
-      "title": "Dedicated Stack (Self-Hosted or Managed)",
-      "desc": "Separate hosting for your organization — perfect for regulations like LGPD, HIPAA, or ISO 27001. Your choice: our infrastructure or yours."
+      "title": "Deployment Options (SaaS or Self-Hosted)",
+      "desc": "Besides the SaaS model, we offer a managed Self-Hosted model within your environment — perfect for regulations like GDPR, PCI, SOC2, HIPAA, or ISO 27001. Your choice: our infrastructure or yours."
     },
     "compliance": {
       "title": "Compliance-Ready",
-      "desc": "Encryption, RBAC, granular access control, SSO, audit logs, and more — ready to meet top industry standards."
+      "desc": "Encryption in transit and at rest, RBAC, granular access control, SSO, audit logs, and more — ready to meet top industry standards."
     }
   },
 
