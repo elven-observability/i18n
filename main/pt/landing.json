@@ -65,12 +65,12 @@
       "desc": "Cada cliente com ambiente lógico isolado, quotas e acesso independente. Ideal para agilidade, escalabilidade e baixo custo."
     },
     "dedicated": {
-      "title": "Stack Dedicada (Self ou Gerenciada)",
-      "desc": "Hospedagem separada para sua organização — ideal para regulamentos como LGPD, HIPAA ou ISO 27001. Você escolhe: nossa infra ou a sua."
+      "title": "Opções de Deployment (SaaS ou Self-Hosted)",
+      "desc": "Além do SaaS multi-tenant, oferecemos o modelo self-hosted gerenciado para sua organização — ideal para regulações como LGPD, PCI, SOC2, HIPAA ou ISO 27001. Você escolhe: nossa infra ou a sua."
     },
     "compliance": {
       "title": "Compliance-ready",
-      "desc": "Criptografia, RBAC, controle de acesso granular, SSO, logs de auditoria e mais, prontos para atender às principais normas de mercado."
+      "desc": "Criptografia em trânsito e repouso, Role-Based Access Control, controle de acesso granular, SSO, logs de auditoria e mais, prontos para atender às principais normas de mercado."
     }
   },
 
