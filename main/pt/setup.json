@@ -5,20 +5,19 @@
     "noToken": "Token não encontrado.",
     "generateTokenButton": "Gerar novo token"
   },
-
   "grafana": {
     "title": "Conexão ao Grafana",
     "description": "Utilize as informações abaixo para conectar-se ao Grafana:",
+    "credential": "Credências",
+    "credentialsLabel": "As credenciais são as mesmas que você registrou aqui.",
     "urlLabel": "URL:",
     "usernameLabel": "Usuário:",
     "passwordLabel": "Senha:"
   },
-
   "token": {
     "title": "Uso do Token para Mimir, Loki e Tempo",
     "description": "Use o token abaixo para enviar dados aos serviços Mimir, Loki e Tempo:"
   },
-
   "endpoints": {
     "mimir": {
       "title": "Mimir Endpoint",
