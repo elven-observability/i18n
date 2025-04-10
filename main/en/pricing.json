@@ -13,6 +13,7 @@
   "calculator": {
     "title": "SaaS Pricing Calculator",
     "description": "Estimate your monthly cost based on usage. Values vary with retention period.",
+    "sso": "Add SSO support",
     "fields": {
       "logs": "Logs",
       "traces": "Traces",

@@ -13,6 +13,7 @@
   "calculator": {
     "title": "Calculadora de Preço SaaS",
     "description": "Estime seu custo mensal com base no uso. Valores variam com o tempo de retenção.",
+    "sso": "Adicionar suporte a SSO",
     "fields": {
       "logs": "Logs",
       "traces": "Traces",
