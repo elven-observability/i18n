@@ -84,7 +84,8 @@
     "contactTitle": "Contact",
     "contactPhone": "Phone: +55 (11) 99126-6175",
     "contactSite": "Website: https://elvenobservability.com",
-    "contactEmail": "Email: contact@elvenobservability.com"
+    "contactEmail": "Email: contact@elvenobservability.com",
+    "total": "Total"
   },
   "retention": {
     "label": "Retention:",
