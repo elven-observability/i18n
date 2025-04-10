@@ -18,11 +18,16 @@
       "traces": "Traces",
       "profiles": "Profiles",
       "metrics": "Métricas Ativas",
-      "seriesSuffix": "K séries"
+      "seriesSuffix": "K séries",
+      "users": "Usuários"
     },
     "summary": {
-      "title": "Resumo:",
-      "total": "Total"
+      "title": "Resumo",
+      "extraUsers": "Usuários extras ({{count}})",
+      "sso": "SSO separado",
+      "included": "Incluído",
+      "total": "Total",
+      "totalWithSSO": "Total com SSO"
     },
     "cta": {
       "hire": "Contratar Agora",
