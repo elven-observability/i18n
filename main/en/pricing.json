@@ -73,7 +73,7 @@
     "retention": "Retention",
     "days": "days",
     "users": "Extra users",
-    "sso": "Separate SSO",
+    "sso": "SSO",
     "ssoEnabled": "Enabled",
     "included": "Included",
     "totalWithSSO": "Total with SSO",
