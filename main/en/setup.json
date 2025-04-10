@@ -1,7 +1,9 @@
 {
   "success": {
-    "title": "🎉 Your account is ready!",
-    "description": "Below are the access and configuration details to connect your services to <strong>Elven Observability</strong>."
+    "title": "All set, {{name}}!",
+    "subtitle": "Welcome to Elven Observability! Here are your credentials and endpoints to start sending logs, metrics, and traces securely.",
+    "noToken": "Token not found.",
+    "generateTokenButton": "Generate new token"
   },
 
   "grafana": {
