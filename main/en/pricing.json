@@ -25,7 +25,7 @@
     "summary": {
       "title": "Summary",
       "extraUsers": "Extra users ({{count}})",
-      "sso": "Separate SSO",
+      "sso": "SSO with a domain",
       "included": "Included",
       "total": "Total",
       "totalWithSSO": "Total with SSO"
@@ -73,7 +73,7 @@
     "retention": "Retention",
     "days": "days",
     "users": "Extra users",
-    "sso": "SSO",
+    "sso": "SSO with a domain",
     "ssoEnabled": "Enabled",
     "included": "Included",
     "totalWithSSO": "Total with SSO",
