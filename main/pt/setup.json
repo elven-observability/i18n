@@ -41,5 +41,10 @@
       "headersLabel": "Headers Necessários",
       "exampleLabel": "Exemplo de Configuração"
     }
+  },
+  "tokenBottom": {
+    "title": "Token de Autenticação",
+    "description": "Este token será usado para autenticar suas requisições. Guarde-o com segurança.",
+    "missing": "Token não disponível"
   }
 }
