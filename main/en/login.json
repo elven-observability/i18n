@@ -11,6 +11,6 @@
   "noAccount": "Don't have an account?",
   "createAccount": "Create Account",
   "errors": {
-    "loginFailed": "Failed to login."
+    "loginFailed": "Invalid login credentials."
   }
 }

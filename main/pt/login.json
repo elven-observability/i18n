@@ -11,6 +11,6 @@
   "noAccount": "Ainda não tem conta?",
   "createAccount": "Criar Conta",
   "errors": {
-    "loginFailed": "Erro ao fazer login."
+    "loginFailed": "Credencias de login inaválidas."
   }
 }
