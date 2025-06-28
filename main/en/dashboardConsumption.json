@@ -46,5 +46,9 @@
     "consumption": "Consumption",
     "cost": "Cost",
     "alerts": "Alerts"
+  },
+  "placeholder": {
+    "body1": "This feature is under development and will be available soon.",
+    "body2": "In the meantime, you can monitor consumption in the Consumption tab."
   }
 }

@@ -46,5 +46,9 @@
     "consumption": "Consumo",
     "cost": "Custo",
     "alerts": "Alertas"
+  },
+  "placeholder": {
+    "body1": "Esta funcionalidade está em desenvolvimento e estará disponível em breve.",
+    "body2": "Enquanto isso, você pode acompanhar o consumo na aba de Consumption."
   }
 }
