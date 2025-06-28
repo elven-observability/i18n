@@ -41,5 +41,10 @@
       "15d": "Últimos 15 dias",
       "30d": "Últimos 30 dias"
     }
+  },
+  "tabs": {
+    "consumption": "Consumo",
+    "cost": "Custo",
+    "alerts": "Alertas"
   }
 }

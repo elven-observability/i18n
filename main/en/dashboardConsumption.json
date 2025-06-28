@@ -30,7 +30,6 @@
     "logs": "Log Volume 🗃️",
     "traces": "Traces Volume 🧵"
   },
-
   "time": {
     "from": "From",
     "to": "To",
@@ -42,5 +41,10 @@
       "15d": "Last 15 days",
       "30d": "Last 30 days"
     }
+  },
+  "tabs": {
+    "consumption": "Consumption",
+    "cost": "Cost",
+    "alerts": "Alerts"
   }
 }
