@@ -1,28 +1,39 @@
 {
   "title": "Create your free account",
-  "subtitle": "Get 7 days free trial with full access to Elven Observability platform.",
+  "subtitle": "Get 7 days of free trial access to the Elven Observability platform.",
   "fields": {
     "name": "Your name",
     "organization": "Organization Name",
+    "organizationHelper": "Name of your company, team, or project.",
     "email": "Email",
-    "password": "Password"
+    "password": "Password",
+    "passwordHelper": "Use at least 8 characters, including letters and numbers."
+  },
+  "errors": {
+    "nameRequired": "Name is required.",
+    "organizationRequired": "Organization name is required.",
+    "invalidOrganization": "Organization name contains invalid characters.",
+    "emailRequired": "Email is required.",
+    "invalidEmail": "Invalid email.",
+    "passwordRequired": "Password is required.",
+    "weakPassword": "Weak password. Use uppercase, lowercase letters, numbers, and symbols.",
+    "acceptTerms": "You must accept the terms of use and privacy policy.",
+    "emailInUse": "This email is already in use.",
+    "fillAllFields": "Please fill in all required fields."
   },
   "terms": {
     "text": "I accept the",
     "terms": "Terms of Use",
-    "privacy": "Privacy Policy",
-    "and": "and"
+    "and": "and",
+    "privacy": "Privacy Policy"
   },
   "button": {
     "submit": "Create Free Account",
-    "loading": "Creating account..."
+    "loading": "Creating your account..."
   },
   "alreadyHaveAccount": "Already have an account?",
   "loginLink": "Login",
-  "errors": {
-    "invalidEmail": "Invalid email.",
-    "weakPassword": "Weak password. Use at least 12 characters with uppercase, lowercase, number and symbol.",
-    "invalidOrganization": "Organization name can only contain letters, numbers, underscores (_) or hyphens (-).",
-    "fillAllFields": "Fill in all fields and accept the terms."
+  "loading": {
+    "creating": "Creating your account, please wait..."
   }
 }

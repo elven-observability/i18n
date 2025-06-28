@@ -1,28 +1,39 @@
 {
   "title": "Crie sua conta gratuita",
-  "subtitle": "Ganhe 7 dias de teste grátis com acesso à plataforma Elven Observability.",
+  "subtitle": "Ganhe 14 dias de teste grátis com acesso à plataforma Elven Observability.",
   "fields": {
     "name": "Seu nome",
     "organization": "Nome da Organização",
+    "organizationHelper": "Nome da sua empresa, equipe ou projeto.",
     "email": "Email",
-    "password": "Senha"
+    "password": "Senha",
+    "passwordHelper": "Use pelo menos 8 caracteres, incluindo letras e números."
+  },
+  "errors": {
+    "nameRequired": "O nome é obrigatório.",
+    "organizationRequired": "O nome da organização é obrigatório.",
+    "invalidOrganization": "O nome da organização contém caracteres inválidos.",
+    "emailRequired": "O email é obrigatório.",
+    "invalidEmail": "Email inválido.",
+    "passwordRequired": "A senha é obrigatória.",
+    "weakPassword": "A senha é fraca. Use letras maiúsculas, minúsculas, números e símbolos.",
+    "acceptTerms": "Você deve aceitar os termos de uso e política de privacidade.",
+    "emailInUse": "Este email já está em uso.",
+    "fillAllFields": "Preencha todos os campos obrigatórios."
   },
   "terms": {
     "text": "Aceito os",
     "terms": "Termos de Uso",
-    "privacy": "Política de Privacidade",
-    "and": "e"
+    "and": "e",
+    "privacy": "Política de Privacidade"
   },
   "button": {
     "submit": "Criar Conta Grátis",
-    "loading": "Criando conta..."
+    "loading": "Criando sua conta..."
   },
   "alreadyHaveAccount": "Já tem conta?",
   "loginLink": "Entrar",
-  "errors": {
-    "invalidEmail": "Email inválido.",
-    "weakPassword": "Senha fraca. Use pelo menos 12 caracteres com letra maiúscula, minúscula, número e símbolo.",
-    "invalidOrganization": "Nome da organização só pode conter letras, números, underline (_) ou hífen (-).",
-    "fillAllFields": "Preencha todos os campos e aceite os termos."
+  "loading": {
+    "creating": "Criando sua conta, por favor aguarde..."
   }
 }
